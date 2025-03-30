@@ -1,0 +1,18 @@
+@media (max-width: 600px) {
+    body {
+        height: auto;
+        padding: 20px;
+    }
+    .container {
+        padding: 15px;
+    }
+    h1 {
+        font-size: 22px;
+    }
+    h2 {
+        font-size: 18px;
+    }
+    p, li {
+        font-size: 14px;
+    }
+}
